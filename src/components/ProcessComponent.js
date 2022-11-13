@@ -24,17 +24,12 @@ function Process(props) {
                     <CardBody>
                         <CardTitle><h3>Phase 1: Scanning + Sketchfab</h3></CardTitle>
                             <CardText>
-                            3D scans were made of the room using the Polycam app. 
-                            Our team was impressed by the quality of the scans and how detailed 
-                            some of the smaller objects in the room appeared. 
-                            Our first scan showed an abundance of imperfections, including distorted
-                            objects, blurred areas and duplicated objects.  
-                            The second scan was done at a much slower pace than the first scan 
-                            to get as much detail as possible, but there are still imperfections 
-                            in it. We had a lot of trouble with mirrors since the scanner saw the 
-                            reflection and assumed it to be more of the actual room and scanned 
-                            that area everytime the angle shifted. Small objects were also 
-                            difficult because they were often either distorted or removed entirely.
+                            3D scans were made of the room using the Polycam app. Our team was 
+                            impressed by the quality of the scans and how detailed some of the smaller 
+                            objects in the room appeared. Our first scan showed an abundance of imperfections, 
+                            including distorted objects, blurred areas and duplicated objects.  
+                            The second scan was done at a much slower pace than the first scan to get 
+                            as much detail as possible, but there are still imperfections that can be seen in our demo video. 
                             </CardText>
                     </CardBody>
                 </Card>

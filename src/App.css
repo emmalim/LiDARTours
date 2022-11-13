@@ -84,3 +84,9 @@ body{
 .application{
   margin-bottom: 60px;
 }
+.card{
+  max-height: 35rem;
+  max-width: 35rem;
+  display: flex;
+  flex-direction: row;
+}
