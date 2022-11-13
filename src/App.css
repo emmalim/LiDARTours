@@ -1,0 +1,86 @@
+body{
+  overflow-x: hidden;
+}
+.background {
+  background-color: #0c0c0c;
+}
+
+.header{
+  color: #32ADF2;
+  font-size: 74px;
+}
+
+.text {
+  color: white;
+}
+
+.button {
+  margin-top: 10px;
+}
+
+.purp-text {
+  color: #56517E;
+  font-family: dynaPuff;
+}
+
+.navbar-dark {
+    background-color: #0c0c0c;
+    border-bottom:5px solid white;
+    margin-bottom: 5%;
+}
+
+.navtext {
+  font-size: 130%;
+}
+
+.logo {
+  height: 120px;
+  width: 120px;
+}
+
+
+
+.subhead {
+  color: #32ADF2;
+  font-size: 55px;
+}
+
+.house-col {
+  max-height: max-content;
+  width: 80rem;
+  height: 40rem;
+}
+
+.appText {
+  font-size: 30px;
+  color: white;
+  margin-bottom:30px;
+}
+
+.appText2 {
+  font-size: 25px;
+  color: white;
+}
+
+.plane{
+  max-height: min-content;
+  width: 30rem;
+  height: 25rem;
+}
+.render{
+  max-height: min-content;
+  width: 35rem;
+  height: 25rem;
+}
+
+.foottext {
+  color: white;
+}
+
+.foot {
+  margin-top: 50px;
+}
+
+.application{
+  margin-bottom: 60px;
+}
