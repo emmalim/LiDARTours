@@ -31,7 +31,7 @@ function Process(props) {
                             The second scan was done at a much slower pace than the first scan to get 
                             as much detail as possible, but there are still imperfections that can be seen in our demo video. 
                             </CardText>
-                    </CardBody>
+                    </CardBody> 
                 </Card>
                 
                 <Card>
