@@ -13,7 +13,7 @@ function Demo(props) {
           <Col sm="6" md="12"><h1 className="subhead">How it works</h1></Col>
         </Row>
         <Row>
-        <iframe
+        <iframe className="youtube"
       width="853"
       height="480"
       src={`https://www.youtube.com/embed/i4gAn7CB7sE`}
@@ -23,7 +23,7 @@ function Demo(props) {
       title="Embedded youtube"
     />
     <Row> 
-      <p>To create a 3D scan, we used Lidar technology, which uses lasers to calculate distance 
+      <p  className="whitetext">To create a 3D scan, we used Lidar technology, which uses lasers to calculate distance 
         from the scanner to the object being scanned. Using VR, we placed users inside the 
         resulting scan, allowing them to view the room as if they are actually there.<br></br>
         While the Lidar scan was able to accurately capture most of the room, we noticed some 

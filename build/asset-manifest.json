@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WHACKATURE/static/css/main.bbef0800.css",
+    "main.js": "/WHACKATURE/static/js/main.9a2c335e.js",
+    "static/js/787.2e4ac314.chunk.js": "/WHACKATURE/static/js/787.2e4ac314.chunk.js",
+    "static/media/DynaPuff-VariableFont_wdth,wght.ttf": "/WHACKATURE/static/media/DynaPuff-VariableFont_wdth,wght.fc98f5be074e3a854e70.ttf",
+    "index.html": "/WHACKATURE/index.html",
+    "main.bbef0800.css.map": "/WHACKATURE/static/css/main.bbef0800.css.map",
+    "main.9a2c335e.js.map": "/WHACKATURE/static/js/main.9a2c335e.js.map",
+    "787.2e4ac314.chunk.js.map": "/WHACKATURE/static/js/787.2e4ac314.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbef0800.css",
+    "static/js/main.9a2c335e.js"
+  ]
+}
