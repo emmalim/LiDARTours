@@ -13,7 +13,7 @@ function Home(props) {
 
    <Container>
       <Row>
-        <Col sm="6" md="3"><h1 className="header">LiDARTour</h1></Col>
+        <Col sm="6" md="3"><h1 className="header">LiDARToura</h1></Col>
       </Row>
 
       <Row>
@@ -25,7 +25,7 @@ function Home(props) {
       </Row>
 
       <Row>
-          <Col className="house-col" sm="5"><img className="house-col" src='assets/house.png' alt='house' /></Col>
+          <Col className="house-col" sm="5"><img className="house-col" src='../public/assets/house.png' alt='house' /></Col>
       </Row>
    </Container>
   );

@@ -14,7 +14,7 @@ export default function App() {
                 LiDARTour
               </h6>
               <p>
-                We are LiDARTours! Our goal is to provide you with a safe alternative to inperson tours, and allow you to get a view and layout without leaving you're house. 
+                We are LiDARTours! Our goal is to provide you with a safe and low-cost alternative to in-person tours, and allow you to get a view and layout without leaving your house. 
               </p>
             </MDBCol>
 
@@ -38,6 +38,11 @@ export default function App() {
               <h6 className='foottext text-uppercase fw-bold mb-4'>Contact</h6>
               <p>
                 <a href='#!' className='text-reset'>
+                  el110@wellesley.edu
+                </a>
+              </p>
+              <p>
+                <a href='#!' className='text-reset'>
                   artemioskayas@gmail.com
                 </a>
               </p>
@@ -51,11 +56,6 @@ export default function App() {
                   km1@wellesley.edu
                 </a>
               </p>
-              <p>
-                <a href='#!' className='text-reset'>
-                  el110@wellesley.edu
-                </a>
-              </p>
             </MDBCol>
           </MDBRow>
         </MDBContainer>
@@ -64,7 +64,7 @@ export default function App() {
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
         © 2022 Copyright:
         <a className='text-reset fw-bold' href='https://mdbootstrap.com/'>
-          LiDARTour
+          LiDARTours
         </a>
       </div>
     </MDBFooter>

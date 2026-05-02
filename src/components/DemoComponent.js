@@ -23,10 +23,10 @@ function Demo(props) {
       title="Embedded youtube"
     />
     <Row> 
-      <p  className="whitetext">To create a 3D scan, we used Lidar technology, which uses lasers to calculate distance 
+      <p  className="whitetext">To create a 3D scan, we used lidar technology, which uses lasers to calculate distance 
         from the scanner to the object being scanned. Using VR, we placed users inside the 
         resulting scan, allowing them to view the room as if they are actually there.<br></br>
-        While the Lidar scan was able to accurately capture most of the room, we noticed some 
+        While the lidar scan was able to accurately capture most of the room, we noticed some 
         faults in the technology. The scanner had difficulty accurately rendering reflective 
         surfaces like mirrors, computer monitors, and windows, which resulted in blurred, 
         distorted, and missing objects. Many of the small objects present in the scene also 
