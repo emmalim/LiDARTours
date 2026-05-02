@@ -1,6 +1,6 @@
 {
-  "name": "confusion",
-  "homepage": "https://annissamu.github.io/WHACKATURE/",
+  "name": "LiDARTours",
+  "homepage": "https://github.com/emmalim/LiDARTours",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
