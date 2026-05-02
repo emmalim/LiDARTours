@@ -11,7 +11,7 @@ export default function App() {
             <MDBCol md="3" lg="4" xl="3" className='mx-auto mb-4'>
               <h6 className='foottext text-uppercase fw-bold mb-4'>
                 <MDBIcon icon="gem" className="me-3" />
-                LiDARTour
+                LiDARTours
               </h6>
               <p>
                 We are LiDARTours! Our goal is to provide you with a safe and low-cost alternative to in-person tours, and allow you to get a view and layout without leaving your house. 
