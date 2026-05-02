@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emmalim/LiDARTours/static/css/main.bca9dd18.css",
+    "main.js": "/emmalim/LiDARTours/static/js/main.6371da26.js",
+    "static/js/787.7abf7e4b.chunk.js": "/emmalim/LiDARTours/static/js/787.7abf7e4b.chunk.js",
+    "static/media/DynaPuff-VariableFont_wdth,wght.ttf": "/emmalim/LiDARTours/static/media/DynaPuff-VariableFont_wdth,wght.fc98f5be074e3a854e70.ttf",
+    "index.html": "/emmalim/LiDARTours/index.html",
+    "main.bca9dd18.css.map": "/emmalim/LiDARTours/static/css/main.bca9dd18.css.map",
+    "main.6371da26.js.map": "/emmalim/LiDARTours/static/js/main.6371da26.js.map",
+    "787.7abf7e4b.chunk.js.map": "/emmalim/LiDARTours/static/js/787.7abf7e4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca9dd18.css",
+    "static/js/main.6371da26.js"
+  ]
+}
