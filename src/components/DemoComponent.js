@@ -12,17 +12,18 @@ function Demo(props) {
         <Row>
           <Col sm="6" md="12"><h1 className="subhead">How it works</h1></Col>
         </Row>
-        <Row>
+        <Row className="application">
         <iframe className="youtube"
       width="853"
       height="480"
-      src={`https://www.youtube.com/embed/i4gAn7CB7sE`}
+      src={`https://www.youtube.com/embed/6gS6Y8G2Ta4?si=JPBZKdjecLQI3C3B`}
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowFullScreen
       title="Embedded youtube"
     />
-    <Row> 
+    </Row>
+    <Row className="application"> 
       <p  className="whitetext">To create a 3D scan, we used lidar technology, which uses lasers to calculate distance 
         from the scanner to the object being scanned. Using VR, we placed users inside the 
         resulting scan, allowing them to view the room as if they are actually there.<br></br>
@@ -37,7 +38,7 @@ function Demo(props) {
         are comprehensible enough that users are able to get a full experience.
         </p>
     </Row> 
-        </Row>
+        
       </Container>
   )
   
