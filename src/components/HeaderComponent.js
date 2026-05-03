@@ -26,7 +26,7 @@ class Header extends Component {
           <div className="container">
             <NavbarToggler onClick={this.toggleNav} />
             <Collapse isOpen={this.state.isNavOpen} navbar>
-            <img className="logo" src='../../public/assets/logo.png' alt='LiDARTours logo' />
+            <img className="logo" src={process.env.PUBLIC_URL + '/assets/logo.png'} alt='LiDARTours logo' />
               <Nav navbar className="mr-auto">
                 <NavItem>
                   <NavLink className="nav-link navtext" to="/home">
